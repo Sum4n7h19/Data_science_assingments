@@ -119,8 +119,5 @@ num=str(num2)+s
 print(num)
 
 
-# In[ ]:
-
-
 
 
