@@ -36,8 +36,9 @@ print(type(y))
 
 
 # Q4
-# open a text editor-->create a new file in .py format-->write a python code (ex:print("hello world)) -->save the file and exit text editor-->open command line-->Navigate to the correct directory-->once you are in correct directory enter the command pyhton file_name.py-->the code will execute in the python interpreter
-# 
+''' open a text editor-->create a new file in .py format-->write a python code (ex:print("hello world)) -->
+save the file and exit text editor-->open command line-->Navigate to the correct directory-->
+once you are in correct directory enter the command pyhton file_name.py-->the code will execute in the python interpreter'''
 
 # In[8]:
 
@@ -111,8 +112,6 @@ if Is_student=='t':
 else:
     print(False)
 
-
-# In[ ]:
 
 
 
